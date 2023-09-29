@@ -1,19 +1,6 @@
-## Introduction
-
-<div align="center">
-<img src="experiment/images/iitkgp.png" width="10%">
-</div>
-
-<b>Discipline | <b> Chemical Engineering 
-:--|:--|
-<b> Lab | <b> **Chemical Process Dynamics Laboratory**
-<b> Experiment|     <b> **Polymerization reactor**
 
 
-### About the Experiment 
-
-<!--Fill a brief description of this experiment here-->
-
+#### Subject Matter Experts
 <b>Name of Subject Matter Experts | <b> **Dr. Amiya Kumar Jana**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
@@ -21,11 +8,7 @@
 <b> Department |  **Chemical Engineering**
 <b>Webpage| <b> https://www.iitkgp.ac.in/department/CH/faculty/ch-akjana
 
-
-
-
-### Contributors List
-
+#### Developers
 SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department| Institute
 :--|:--|:--|:--|:--|:--|
 1 | **Biswajit Mondal** |Developer | Junior Project Assistant | Chemical Engineering Department | IIT Kharagpur | 
